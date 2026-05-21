@@ -1,0 +1,14 @@
+"C:\Users\junay\PycharmProjects\Pneumonia Coursework AI\.venv\Scripts\python.exe" "C:\Users\junay\PycharmProjects\Pneumonia Coursework AI\CNN.py" 
+Epoch 1/5, Loss: 48.102, Train Acc: 87.69%, Val Acc: 87.50%
+Epoch 2/5, Loss: 23.047, Train Acc: 94.57%, Val Acc: 75.00%
+Epoch 3/5, Loss: 16.786, Train Acc: 96.05%, Val Acc: 56.25%
+Epoch 4/5, Loss: 19.545, Train Acc: 95.71%, Val Acc: 68.75%
+Epoch 5/5, Loss: 18.302, Train Acc: 95.72%, Val Acc: 62.50%
+Test Accuracy: 0.7051282051282052
+Precision: 0.6813380281690141
+Recall: 0.9923076923076923
+F1 Score: 0.8079331941544885
+[[ 53 181]
+ [  3 387]]
+
+Process finished with exit code 0
